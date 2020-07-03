@@ -1,0 +1,6 @@
+[build]
+  publish = "dist"
+  command = "npm run nuxt:build"
+
+[template.environment]
+  EMBED_ID = "3d2c73f1-0a27-4eb1-974e-1ea7c7abcda4"
