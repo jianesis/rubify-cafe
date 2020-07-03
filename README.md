@@ -24,7 +24,7 @@ Refer to the guide in our [contributing guidelines][contributing] on adding even
 
 You can skip steps 2 and 3 by using this button:
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/phazonoverload/social-cafe"><img src="https://www.netlify.com/img/deploy/button.svg" /></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/DavidJian0905/social-cafe-demo-"><img src="https://www.netlify.com/img/deploy/button.svg" /></a>
 
 ## Build Setup
 
